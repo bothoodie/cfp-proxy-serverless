@@ -1,0 +1,7 @@
+{
+  "name": "cfb-proxy-serverless",
+  "version": "1.0.0",
+  "dependencies": {
+    "playwright": "^1.36.0"
+  }
+}
